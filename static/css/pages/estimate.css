@@ -1,0 +1,102 @@
+.estimate-container {
+  /* padding-top: 270px; */
+  margin-bottom: 120px;
+  width: 100%;
+  }
+  .estimate-container .image-wrapper {
+    position: relative;
+    width: 53%;
+    }
+    .estimate-container .image-wrapper > h1 {
+      position: relative;
+      font-size: 25px;
+      font-weight: 500;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: normal;
+      letter-spacing: -0.6px;
+      color: #1b1f26;
+      }
+    .estimate-container .image-wrapper img {
+      margin-top: 48px;
+      width: 100%;
+      }
+  .estimate-container .form-wrapper {
+    min-width: 472px;
+    margin-left: 146px;
+    width: 100%;
+    }
+    .estimate-container .form-wrapper .form-item {
+      display: flex;
+      flex-direction: row;
+      /* justify-content: space-between; */
+      align-items: center;
+      }
+      .estimate-container .form-wrapper .form-item.flex-start {
+        align-items: flex-start; }
+      .estimate-container .form-wrapper .form-item .subject {
+        font-size: 16px;
+        font-weight: 500;
+        letter-spacing: -0.5px;
+        color: #1b1f26;
+        margin-bottom: 0;
+        min-width: 143px;
+        }
+      .estimate-container .form-wrapper .form-item .form-select {
+        min-width: 320px;
+        max-width: 550px;
+        flex: auto;
+        }
+      .estimate-container .form-wrapper .form-item .input {
+        min-width: 320px;
+        max-width: 550px;
+        flex: auto;
+        }
+      .estimate-container .form-wrapper .form-item .textarea {
+        min-width: 320px;
+        max-width: 550px;
+        height: 90px;
+        flex: auto;
+        }
+      .estimate-container .form-wrapper .form-item:not(:first-child) {
+        margin-top: 8px;
+        }
+    .estimate-container .form-wrapper .terms {
+      display: flex;
+      flex-direction: column;
+      /* align-items: flex-end; */
+      margin-top: 1px;
+      margin-bottom: 8px;
+      min-width: max-content;
+      }
+      .estimate-container .form-wrapper .terms .terms-text {
+        min-width: 320px;
+        font-size: 12px;
+        line-height: 1.42;
+        letter-spacing: -0.2px;
+        color: #3b3d48;
+        max-width: 550px;
+        }
+        .estimate-container .form-wrapper .terms .terms-text > a {
+          color: #6aa1e7; }
+      .estimate-container .form-wrapper .terms .checkbox {
+        width: 320px; }
+    .estimate-container .form-wrapper .button-wrapper {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      margin-top: 24px;
+      }
+      .estimate-container .form-wrapper .button-wrapper .estimate-button {
+        width: 320px;
+        height: 52px;
+        border-radius: 100px;
+        background-color: #004eeb;
+        border: 1px solid #004eeb;
+        color: white; }
+
+.estimate-checked {
+  min-width: 320px;
+  max-width: 550px;
+  flex: auto;
+}

@@ -1,0 +1,39 @@
+.banner-home {
+
+}
+
+.banner-case {
+   width: 100%;
+   height: 468px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: -64px;
+  }
+  .banner-case > img {
+
+  }
+  .banner-case .banner-title {
+   display: flex;
+   flex-direction: column;
+   z-index: 1;
+   width: 100%;
+   align-content: center;
+   align-items: center;
+      position: absolute;
+      left: 0;
+   }
+   .banner-title .title-wrapper {
+    width: 100%;
+    height: 100%;
+    }
+
+@media screen and (min-width:0\0) {
+    .banner-title .title-wrapper {
+        margin-top: 182px;
+        width: 100%;
+        height: 100%;
+        margin-bottom: 40px;
+    }
+}

@@ -1,0 +1,53 @@
+.register-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 64px); }
+  .register-container > img {
+    margin-right: 158px; }
+  .register-container .register-wrapper {
+    width: 313px;
+    display: flex;
+    flex-direction: column; }
+    .register-container .register-wrapper .title {
+      font-size: 42px;
+      font-weight: bold;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.14;
+      letter-spacing: -0.1px;
+      color: #3b3d48;
+      margin-bottom: 69px; }
+    .register-container .register-wrapper .item {
+      width: 100%;
+      display: flex;
+      flex-direction: column; }
+      .register-container .register-wrapper .item.required .input-icon .fail-icon {
+        display: block; }
+      .register-container .register-wrapper .item.required .message {
+        display: block; }
+      .register-container .register-wrapper .item.success .input-icon .success-icon {
+        display: block; }
+      .register-container .register-wrapper .item .message {
+        display: none;
+        font-size: 13px;
+        line-height: 2.15;
+        letter-spacing: -0.4px;
+        color: #de350b; }
+      .register-container .register-wrapper .item:not(:first-child) {
+        margin-top: 16px; }
+      .register-container .register-wrapper .item .input-icon > img {
+        display: none; }
+      .register-container .register-wrapper .item .input {
+        width: 100%; }
+      .register-container .register-wrapper .item .checkbox > label {
+        font-size: 12px;
+        line-height: 1.42;
+        letter-spacing: -0.2px;
+        color: #3b3d48; }
+        .register-container .register-wrapper .item .checkbox > label > a {
+          color: #6aa1e7; }
+      .register-container .register-wrapper .item .button-round-large {
+        width: 100%;
+        height: 56px; }

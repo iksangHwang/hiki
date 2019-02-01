@@ -1,0 +1,232 @@
+/* Text styles */
+h1, h2, h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+h4, h5, h6 {
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+
+.m-display {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.75rem; /* 28/16 */
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.05rem; /* -0.8/16 */
+  color: #ffffff;
+}
+.m-h1-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.044rem; /* -0.7/16 */
+  color: #0f1030;
+}
+.m-h1-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.5rem; /* 24/16 */
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.044rem; /* -0.7/16 */
+  text-align: center;
+  color: #0f1030;
+}
+.m-h2-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.037rem; /* -0.6/16 */
+  color: #0f1030;
+}
+.m-h2-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.75rem; /* 28/16 */
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: -0.05rem; /* -0.8/16 */
+  text-align: center;
+  color: #0f1030;
+}
+.m-h3-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.25rem; /* 20/16 */
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.037rem; /* -0.6/16 */
+  color: #0f1030;
+}
+.m-h4-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1rem; /* 16/16 */
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.031rem; /* -0.5/16 */
+  color: #0f1030;
+}
+.m-h4-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1rem; /* 16/16 */
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.031rem; /* -0.5/16 */
+  text-align: center;
+  color: #0f1030;
+}
+.m-h5-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.019rem; /* -0.3/16 */
+  color: #000000;
+}
+.m-h5-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.019rem; /* -0.3/16 */
+  text-align: center;
+  color: #000000;
+}
+.m-h6-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.019rem; /* -0.3/16 */
+  color: #6d7075;
+}
+
+.m-p-large-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1rem; /* 16/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: -0.031rem; /* -0.5/16 */
+  text-align: justify;
+  color: #5a5f66;
+}
+.m-p-medium-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1.125rem; /* 13/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.025rem; /* -0.4/16 */
+  color: #292c33;
+}
+.m-p-medium-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.025rem; /* -0.4/16 */
+  text-align: center;
+  color: #292c33;
+}
+.m-p-medium-justify {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.025rem; /* -0.4/16 */
+  text-align: justify;
+  color: #292c33;
+}
+.m-p-small-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 1rem; /* 11/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.56rem;
+  letter-spacing: -0.019rem; /* -0.3/16 */
+  text-align: justify;
+  color: #5a5a5a;
+}
+.m-p-small-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.688rem; /* 11/16 */
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.019rem; /* -0.3/16 */
+  text-align: center;
+  color: #3d4047;
+}
+
+.m-eyebr-left {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.875rem; /* 13/16 */
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.025rem; /* -0.4/16 */
+  color: #00c7e6;
+}
+.m-eyebr-center {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.025rem; /* -0.4/16 */
+  text-align: center;
+  color: #00c7e6;
+}
+
+.m-footNote {
+  font-family: NotoSansKR, sans-serif;
+  font-size: 0.813rem; /* 13/16 */
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.025rem; /* -0.4/16 */
+  text-align: center;
+  color: #d0d0d0;
+}
+
+
+/* 선택 옵션 */
+.-white {
+  color: #ffffff;
+}
