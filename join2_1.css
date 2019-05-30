@@ -1,0 +1,294 @@
+   .primary {
+          width: 78px;
+          height: 34px;
+          font-family: NotoSansKR;
+          font-size: 21px;
+          font-weight: 500;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.62;
+          letter-spacing: normal;
+          color: var(--peacock-blue);
+          color: #0747a6;
+          margin-top: 25px;
+          margin-left: 20px;
+        }    
+        
+        .SNS- { 
+            width: 171px;
+            height: 24px;
+            font-family: NotoSansKR;
+            font-size: 15px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.6;
+            letter-spacing: normal;
+            color: var(--dark);
+            color: #14171a;
+            margin-top: 18px;
+            margin-left: 20px;
+            }
+        .iconBox {
+            width: 340px;
+            height: 56px;
+            margin-top: 17px;
+        }
+        .iconBox li {
+            float: left;
+        }
+        .icon_1 {
+            width: 56px;
+            height: 56px;
+            margin-left: 20px;
+        }
+        .kakao_login {
+            width: 56px;
+            height: 56px;
+            object-fit: contain;
+        }
+        .icon_2 {
+            width: 56px;
+            height: 56px;
+            margin-left: 24px;
+            
+        }
+        .naver_login {
+            width: 56px;
+            height: 56px;
+            object-fit: contain;
+        }
+        .icon_3 {
+            width: 56px;
+            height: 56px;
+            margin-left: 24px;
+        }
+        .facebook- {
+            width: 56px;
+            height: 56px;
+            object-fit: contain;
+        }
+        .icon_4 {
+            width: 56px;
+            height: 56px;
+            margin-left: 24px;
+        }
+        .linkedin- {
+            width: 56px;
+            height: 56px;
+            object-fit: contain;
+        }
+        .subtle-basic {
+            width: 35px;
+            height: 26px;
+            font-family: NotoSansKR;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.63;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--battleship-grey);
+            color: #657786;
+            margin-top: 16px;
+            margin-left: 20px;
+        }
+        
+        .Line_1 {
+            width: 278px;
+            height: 1px;
+            background-color: #e1e8ed;
+            margin-left: 62px;
+            margin-top: -15px;
+            position: absolute;
+        }
+        .default_1 {
+            width: 320px;
+            height: 94px;
+            margin-left: 20px;
+            margin-top: 24px;
+        }
+        
+        .input-Your-Heading-Text-E {
+            width: 75px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--dark);
+            color: #14171a;
+        }
+        .field {
+            width: 320px;
+            height: 46px;
+            border-radius: 3px;
+            border: solid 1px var(--light-grey-blue);
+            border: solid 1px #aab8c2;
+            background-color: var(--white);
+            background-color: #fff;    
+            margin-top: 8px;
+        }
+        .default_2 {
+            width: 320px;
+            height: 94px;
+            margin-left: 20px;
+            
+        }
+        .input-Your-Heading-Text-N {
+            width: 24px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--dark);
+            color: #14171a;
+            margin-top: 4px;
+        }
+        .col-dropdown {
+            width: 320px;
+            height: 256px;
+            margin-left: 20px;
+            
+        }
+        select {
+            background: url(img/pn-65-copy-1.svg) no-repeat 290px 10px;
+        }
+        
+        .input-Your-Heading-Text {
+            width: 24px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--dark);
+            color: #14171a;
+            margin-top: 4px;
+        }
+        .content {
+            width: 320px;
+            height: 115px;
+            margin-top: 6px;
+            margin-left: 20px;
+            font-family: NotoSansKR;
+            font-size: 11px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 2.09;
+            letter-spacing: normal;
+            color: var(--battleship-grey);
+            color: #657786;
+            margin-right: 20px;
+        }
+        ::placeholder {
+            padding-left: 16px;
+            font-size: 14px;
+            color: #aab8c2;
+            width: 77px;
+            height: 24px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+
+        }
+
+        .BtnPrivacyCheckOn {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+            margin-left: 22px;
+            margin-top: 26px;
+            position: absolute;
+        }
+        .KAIST {
+            width: 285px;
+            height: 48px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            color: var(--battleship-grey);
+            color: #657786;
+            margin-top: 24px;
+            margin-left: 55px;
+        }
+        .ButtonBox {
+            width: 350px;
+            height: 56px; 
+            margin-top: 24px;
+            margin-bottom: 24px;
+        }
+        .ButtonBox li {
+            float: left;
+        }
+        .Button_1 {
+            width: 152px;
+            height: 56px;
+            background-color: white;
+            border: 1px solid #aab8c2;
+            border-radius: 4px;
+            margin-left: 20px;
+            
+        }
+        .ButtonT_1 {
+            width: 26px;
+            height: 24px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--battleship-grey);
+            color: #657786;
+            margin-left: 66.5px;
+            margin-top: 16px;
+        }
+        .Button_2 {
+            width: 152px;
+            height: 56px;
+            background-color: #0747a6;
+            
+            border-radius: 4px;
+            margin-left: 16px;
+            
+        }
+        .ButtonT_2 {
+            width: 26px;
+            height: 24px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--battleship-grey);
+            color: #fff;
+            margin-left: 66.5px;
+            margin-top: 16px;
+            
+        }

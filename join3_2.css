@@ -1,0 +1,389 @@
+   .Num1 {
+            width: 32px;
+            height: 32px;
+            background-color: #0747a6;
+            border-radius: 17px;
+            margin-left: 20px;
+            margin-top: 24px;
+            position: absolute;
+        }
+        .Num1 p {
+            width: 20px;
+            height: 26px;
+            font-family: NotoSansKR;
+            font-size: 18px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.44;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--white);
+            color: white;
+            margin-left: 6px;
+            margin-top: 6px;
+            position: absolute;
+        }
+        .NumT_1 {
+            width: 104px;
+            height: 26px;
+            font-family: NotoSansKR;
+            font-size: 18px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.44;
+            letter-spacing: normal;
+            color: var(--peacock-blue);
+            color: #0747a6;
+            position: absolute;
+            margin-left: 64px;
+            margin-top: 28px;
+        } 
+        .Num2 {
+            width: 30px;
+            height: 30px;
+            border: 1px solid #aab8c2;
+            border-radius: 17px;
+            margin-left: 20px;
+            margin-top: 24px;
+            margin-left: 184px;
+            margin-top: 24px;
+        }
+        .Num2 p {
+            width: 20px;
+            height: 26px;
+            font-family: NotoSansKR;
+            font-size: 18px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.44;
+            letter-spacing: normal;
+            text-align: center;
+            color: #657786;
+            margin-left: 5px;
+            margin-top: 5px;
+            position: absolute;
+        }
+        .NumT_2 {
+            width: 104px;
+            height: 26px;
+            font-family: NotoSansKR;
+            font-size: 18px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.44;
+            letter-spacing: normal;
+            color: var(--peacock-blue);
+            color: #657786;
+            position: absolute;
+            margin-left: 228px;
+            margin-top: -28px;
+        } 
+        .default_1 {
+            width: 320px;
+            height: 94px;
+            margin-top: 35px;
+            margin-left: 20px;
+        }
+        .input-Your-Heading-Text-E {
+            width: 75px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--dark);
+            color: #14171a;
+            margin-top: 4px;
+        }
+        .field {
+            width: 318px;
+            height: 44px;
+            border-radius: 3px;
+            border: solid 1px var(--light-grey-blue);
+            border: 1px solid #aab8c2;
+            background-color: var(--pale-grey);
+            background-color: #f5f8fa;
+            margin-top: 8px;
+        }
+         .default_2 {
+            width: 320px;
+            height: 94px;
+            margin-left: 20px;
+        }
+        .input-Your-Heading-Text-N {
+            width: 81px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--dark);
+            margin-top: 4px;
+        }
+        .subtle {
+            float: right;
+            width: 187px;
+            height: 20px;    
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: normal;
+            font-style: normafl;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--battleship-grey);
+            color: #657786;
+            margin-top: -20px;
+            margin-left: 133px;
+        }
+        .default_2_1 {
+            width: 320px;
+            height: 94px;
+            margin-left: 20px;
+        }
+        .default_3 {
+            width: 320px;
+            height: 94px;
+            margin-left: 20px;
+        }
+        .default_4 {
+            width: 320px;
+            height: 94px;
+            margin-left: 20px;
+        }
+        .input-Your-Heading-Text {
+            width: 51px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 13px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.54;
+            letter-spacing: normal;
+            color: var(--dark);
+            color: #14171a;
+            
+        }
+        .tel_T {
+            width: 81px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.43;
+            letter-spacing: normal;
+            text-align: right;
+            color: var(--light-grey-blue);
+            color: #aab8c2;
+            margin-top: -20px;
+            float: right;
+           
+        }
+        .tel {
+            width: 318px;
+            height: 44px;
+            border-radius: 3px;
+            border: solid 1px var(--light-grey-blue);
+            background-color: var(--white);
+            border: 1px solid #aab8c2;
+            background-color: white;
+            margin-top: 8px;
+        }
+        #field_T {
+            width: 84px;
+            height: 46px;
+            position: absolute;
+            border-right: 1px solid #aab8c2;
+            border-radius: 0;
+            border-left: none;
+            border-bottom: none;
+            border-top: none;
+            background: transparent;
+            margin-top: 8px;
+        }
+        .col {
+            width: 320px;
+            height: 210px;
+            margin-left: 20px;
+        }
+        .col_T {
+            width: 94px;
+            height: 20px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.43;
+            letter-spacing: normal;
+            text-align: right;
+            color: var(--peacock-blue);
+            color: #0747a6;
+            float: right;
+            margin-top: -20px;
+        }
+        .field_2 {
+            width: 150px;
+            height: 44px;
+            border-radius: 3px;
+            border: 1px solid #aab8c2;
+            background-color: #f5f8fa;
+            margin-top: 16px;
+            float: left;
+        }
+        .field_2_T { 
+            width: 12px;
+            height: 29px;
+            font-family: NotoSansKR;
+            font-size: 20px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--light-grey-blue);
+            color: #aab8c2;
+            position: absolute;
+            margin-left: 154px;
+            margin-top: 22px;
+            
+        }
+        .ButtonBox {
+            width: 350px;
+            height: 56px; 
+            margin-top: 24px;
+            margin-bottom: 24px;
+        }
+        .ButtonBox li {
+            float: left;
+        }
+        .Button_1 {
+            width: 152px;
+            height: 56px;
+            background-color: white;
+            border: 1px solid #aab8c2;
+            border-radius: 4px;
+            margin-left: 20px;
+            
+        }
+        .ButtonT_1 {
+            width: 26px;
+            height: 24px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--battleship-grey);
+            color: #657786;
+            margin-left: 66.5px;
+            margin-top: 16px;
+        }
+        .Button_2 {
+            width: 152px;
+            height: 56px;
+            background-color: #0747a6;
+            
+            border-radius: 4px;
+            margin-left: 16px;
+            
+        }
+        .ButtonT_2 {
+            width: 26px;
+            height: 24px;
+            font-family: NotoSansKR;
+            font-size: 14px;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: center;
+            color: var(--battleship-grey);
+            color: #fff;
+            margin-left: 66.5px;
+            margin-top: 16px;
+            
+        }
+         ::placeholder { 
+           font-size: 14px;
+           color: #aab8c2;
+           line-height: 1.71;
+           font-family: NotoSansKR;
+           font-weight: normal;
+           font-style: normal;
+           font-stretch: normal;
+           letter-spacing: normal;
+           padding-left: 16px;
+       }
+     
+       #field_T{
+           background: url("img/pn-65.svg") no-repeat 47px 13px;
+       }
+ .col-add {
+           width: 320px;
+           height: 405px;
+           margin-left: 20px;
+       }
+       .col-add > form:first-child ::placeholder {
+           color: #14171a;
+       }
+       .default_3 ::placeholder {
+           color: #14171a;
+       }
+       .default_1 ::placeholder {
+           color: #14171a;
+       }
+       .Line_2 {
+           width: 320px;
+           height: 1px;    
+           background-color: #e1e8ed;
+           margin-top: 77px;
+           margin-bottom: 8px;
+       }
+       .field_3 {
+           width: 66px;
+           height: 44px;
+           border-radius: 3px;
+           border: 1px solid #aab8c2;
+           background: white;
+           margin-top: 8px;
+       }
+       .field_4 {
+          width: 234px;
+          height: 44px;
+          border-radius: 3px;
+          border: solid 1px var(--light-grey-blue);
+          background-color: var(--white);
+          border: 1px solid #aab8c2;
+          background: white;
+           float: right;
+           margin-top: 8px;
+       }
+       .field_5 {
+            width: 150px;
+            height: 44px;
+            border-radius: 3px;
+            border: 1px solid #aab8c2;
+            background-color: #f5f8fa;
+            margin-top: 16px;
+            float: left;
+           background: url(img/pn-65-copy-1.svg) no-repeat 122px 10px; 
+        }

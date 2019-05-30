@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <circle id="a" cx="16" cy="16" r="16"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="rotate(15 16 16)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFC400" xlink:href="#a"/>
+        <g mask="url(#b)">
+            <g fill="#FFF" transform="translate(7 12)">
+                <rect width="6.333" height="6.263" rx="3.132"/>
+                <rect width="6.333" height="6.263" x="12.667" rx="3.132"/>
+            </g>
+            <g transform="translate(8.667 13.464)">
+                <ellipse cx="13.487" cy="2.428" fill="#657786" rx="2.036" ry="2.013"/>
+                <ellipse cx="12.389" cy="2.087" fill="#FFF" rx="1" ry="1"/>
+                <ellipse cx="2.036" cy="2.428" fill="#657786" rx="2.036" ry="2.013"/>
+                <ellipse cx="1.209" cy="2.087" fill="#FFF" rx="1" ry="1"/>
+            </g>
+            <g>
+                <path fill="#FF8B00" d="M16.048 18.442c2.895 0 5.733 1.007 8.177 2.694a1.864 1.864 0 0 1-1.12 3.397l-7.057-.234-7.057.234a1.864 1.864 0 0 1-1.121-3.397c2.444-1.687 5.282-2.694 8.178-2.694z"/>
+                <path fill="#FF8B00" d="M15.832 28.117c2.776 0 4.937-.513 6.998-1.537a1.084 1.084 0 0 0-.532-2.053l-5.55.254c-.61.028-1.222.03-1.832.006l-5.363-.216a1.06 1.06 0 0 0-.514 2.009c2.06 1.024 4.017 1.537 6.793 1.537z"/>
+                <g fill="#FFF0B3" transform="translate(14.238 19.516)">
+                    <rect width="1" height="1" rx=".5"/>
+                    <rect width="1" height="1" x="3.257" rx=".5"/>
+                </g>
+            </g>
+        </g>
+        <path stroke="#FFAB00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M13.6 7.6c1.6-.4 3.117-2.403 4-3.6.267 1.6-.043 2.8-.93 3.6.214.349 1.058.016 2.53-1 .267 1.467-.133 2.333-1.2 2.6" mask="url(#b)"/>
+        <path stroke="#FF8B00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M26.057 22.75c-.698-7.318 5.237-5.794 5.142-4.341-.412 6.268-6.652 1.931-1.915 1.097M.857 22.75C.16 15.432 6.094 16.956 6 18.41c-.412 6.268-6.652 1.931-1.915 1.097" mask="url(#b)" opacity=".271"/>
+    </g>
+</svg>
