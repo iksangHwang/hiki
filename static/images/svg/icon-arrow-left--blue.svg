@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>a</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.24,5.788 C12.2054292,5.79127228 12.1707253,5.79294074 12.136,5.793 L1.054,5.793 C0.472,5.793 0,5.345 0,4.793 C0,4.24 0.472,3.793 1.054,3.793 L11.961,3.793 L10.793,2.638 C10.3924347,2.23599345 10.3770482,1.59063945 10.758,1.17 C10.9369444,0.971125969 11.1898125,0.854611249 11.4572552,0.84780224 C11.724698,0.840993231 11.9831674,0.944489456 12.172,1.134 L15.897,4.817 L12.206,8.831 C12.0267757,9.02960498 11.7737537,9.14575163 11.5063141,9.15218228 C11.2388745,9.15861294 10.9805627,9.05476144 10.792,8.865 C10.392012,8.46245391 10.377505,7.81711348 10.759,7.397 L12.239,5.787 L12.24,5.788 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="a" fill="#004EEB" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+.m-container {
+  padding: 3rem 1.5rem 0;
+}
+.s-container {
+  padding: 0rem 1.5rem 0;
+}
+
+.index-container {
+  display:flex;
+  flex-direction: column;
+}
+
+.index-content {
+  padding: 0 3rem;
+}
