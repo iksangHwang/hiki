@@ -1,0 +1,240 @@
+.investor-container {
+  flex: 1; }
+  .investor-container .title {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: -0.1px;
+    color: #6d7075; }
+  .investor-container .table-wrapper {
+    margin-top: 48px; }
+    .investor-container .table-wrapper .data-table tbody tr td:nth-child(1) {
+      width: 120px; }
+    .investor-container .table-wrapper .pagination {
+      margin-top: 32px; }
+
+.ir-qna-container .title {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: -0.1px;
+  color: #6d7075; }
+
+.ir-qna-container .qna-tab {
+  width: 955px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin-top: 48px;
+  border-bottom: 1px solid #e8eaed; }
+  .ir-qna-container .qna-tab > li {
+    width: 212px;
+    height: 48px;
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer; }
+    .ir-qna-container .qna-tab > li > a {
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: -1px;
+      color: #5a5f66; }
+    .ir-qna-container .qna-tab > li.active {
+      background-color: #0065ff; }
+      .ir-qna-container .qna-tab > li.active > a {
+        color: white; }
+
+.ir-qna-container .form-wrapper {
+  margin-top: 24px;
+  width: 956px; }
+  .ir-qna-container .form-wrapper .title {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -0.6px;
+    color: #1b1f26; }
+  .ir-qna-container .form-wrapper .input {
+    width: 955px;
+    height: 48px;
+    border-radius: 3px;
+    background-color: #fafafa; }
+  .ir-qna-container .form-wrapper .textarea {
+    width: 955px;
+    height: 237px;
+    border-radius: 3px;
+    background-color: #fafafa;
+    margin-top: 16px; }
+  .ir-qna-container .form-wrapper .user-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 17px; }
+    .ir-qna-container .form-wrapper .user-info .category {
+      width: 200px;
+      height: 48px;
+      border-radius: 4px;
+      background-color: #e8eaed;
+      margin-right: 16px; }
+    .ir-qna-container .form-wrapper .user-info .username {
+      width: 140px;
+      height: 48px;
+      background: white;
+      margin-right: 8px; }
+    .ir-qna-container .form-wrapper .user-info .tel {
+      width: 200px;
+      height: 48px;
+      border-radius: 3px;
+      background-color: #ffffff;
+      margin-right: 8px; }
+    .ir-qna-container .form-wrapper .user-info .email {
+      width: 383px;
+      height: 48px;
+      border-radius: 3px;
+      background-color: #ffffff; }
+  .ir-qna-container .form-wrapper .checkbox {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 27px; }
+  .ir-qna-container .form-wrapper .button-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 24px; }
+    .ir-qna-container .form-wrapper .button-wrapper button:first-child {
+      margin-right: 8px; }
+    .ir-qna-container .form-wrapper .button-wrapper .cancel-btn {
+      width: 72px;
+      height: 40px;
+      border-radius: 4px;
+      background-color: rgba(0, 82, 204, 0.08);
+      border: 1px solid #0052cc;
+      font-size: 15px;
+      font-weight: 500;
+      color: #0065ff; }
+    .ir-qna-container .form-wrapper .button-wrapper .button-medium {
+      width: 72px;
+       }
+
+.ir-faq-container .title {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: -0.1px;
+  color: #6d7075; }
+
+.ir-faq-container .qna-tab {
+  width: 955px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin-top: 48px;
+  border-bottom: 1px solid #e8eaed; }
+  .ir-faq-container .qna-tab > li {
+    width: 212px;
+    height: 48px;
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer; }
+    .ir-faq-container .qna-tab > li > a {
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: -1px;
+      color: #5a5f66; }
+    .ir-faq-container .qna-tab > li.active {
+      background-color: #0065ff; }
+      .ir-faq-container .qna-tab > li.active > a {
+        color: white; }
+
+.ir-faq-container .search-input-wrapper {
+  width: 955px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px; }
+  .ir-faq-container .search-input-wrapper .search-input {
+    width: 472px;
+    height: 40px; }
+    .ir-faq-container .search-input-wrapper .search-input .input {
+      height: 40px; }
+    .ir-faq-container .search-input-wrapper .search-input img {
+      top: 10px; }
+  .ir-faq-container .search-input-wrapper .select {
+    width: 152px; }
+
+.ir-faq-container .table-wrapper {
+  width: 955px;
+  margin-top: 26px; }
+  .ir-faq-container .table-wrapper .data-table tbody tr td:nth-child(1) {
+    width: 167px; }
+  .ir-faq-container .table-wrapper .pagination {
+    margin-top: 32px; }
+
+.ir-download-container .title {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: -0.1px;
+  color: #6d7075; }
+
+.ir-download-container .download-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 48px; }
+  .ir-download-container .download-list .item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; }
+    .ir-download-container .download-list .item:first-child {
+      margin-right: 35px; }
+    .ir-download-container .download-list .item .image-wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-right: 24px; }
+      .ir-download-container .download-list .item .image-wrapper img {
+        width: 233px;
+        height: 244px; }
+      .ir-download-container .download-list .item .image-wrapper .button-large {
+        margin-top: 16px;
+        width: 165px;
+         }
+    .ir-download-container .download-list .item .content .title {
+      font-size: 26px;
+      font-weight: bold;
+      line-height: 1.23;
+      letter-spacing: -0.5px;
+      color: #1b1f26;
+      margin-bottom: 19px; }
+    .ir-download-container .download-list .item .content .update {
+      font-size: 20px;
+      line-height: 1.6;
+      letter-spacing: -0.6px;
+      color: #6d7075;
+       }
+
+    .ir-download-container .download-list .item .content .release {
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 1.75;
+      letter-spacing: -0.5px;
+      color: #4e5157;
+      margin-bottom: 4px; }
+    .ir-download-container .download-list .item .content .release-list {
+      list-style: none;
+      padding: 0; }
+      .ir-download-container .download-list .item .content .release-list li {
+        opacity: 0.61;
+        font-size: 16px;
+        line-height: 1.75;
+        letter-spacing: -0.5px;
+        color: #4e5157; }

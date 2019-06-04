@@ -1,0 +1,86 @@
+.smart-onestop-container .title {
+  width: 715px;
+  margin-bottom: 76px; }
+  .smart-onestop-container .title > h3 {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #6d7075;
+    margin-top: 0;
+    margin-bottom: 12px; }
+  .smart-onestop-container .title > p {
+    opacity: 0.61;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: -0.5px;
+    color: #4e5157;
+    margin: 0; }
+
+.smart-onestop-container .list-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start; }
+  .smart-onestop-container .list-wrapper .item > h4 {
+    font-size: 21px;
+    font-weight: bold;
+    letter-spacing: -0.3px;
+    color: #1b1f26;
+    margin-bottom: 24px; }
+  .smart-onestop-container .list-wrapper .item > p {
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: -0.5px;
+    color: #1b1f26;
+    margin: 0; }
+  .smart-onestop-container .list-wrapper .item .image-wrapper {
+    width: 227px;
+    height: 227px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+
+.smart-onestop-container .contents {
+  border-top: 1px solid #e8eaed;
+  margin-top: 23px;
+  padding-top: 56px; }
+  .smart-onestop-container .contents .subject {
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.23;
+    letter-spacing: -0.5px;
+    color: #1b1f26;
+    margin-top: 0;
+    margin-bottom: 56px; }
+  .smart-onestop-container .contents .section:not(:nth-child(1)) {
+    margin-top: 56px; }
+  .smart-onestop-container .contents .section > h3 {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    color: #1b1f26;
+    margin-bottom: 23px;
+    margin-top: 0; }
+  .smart-onestop-container .contents .section > p {
+    width: 795px;
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: -0.5px;
+    color: #1b1f26;
+    margin-bottom: 56px; }
+
+.smart-onestop-container .contents .section > img {
+  width: 100%;
+}

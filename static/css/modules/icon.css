@@ -1,0 +1,26 @@
+
+/* 아이콘 트랜스폼 */
+
+.iconHoverMove {
+  display: flex;
+  flex-direction: row;
+  margin-right: 4px;
+}
+.iconHoverMove:hover {
+  margin-right: 8px;
+  transition: 0.1s ease-in-out;
+}
+
+
+/* 옵션 - 아이콘과 텍스트 정렬 */
+
+.-flexAlign {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+
+/* transform: rotate(180deg); */
+/* transform-origin: left; */
+/* transform: translate(100px); */

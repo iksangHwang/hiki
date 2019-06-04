@@ -1,0 +1,26 @@
+/* 컨텐츠 영역에서 사용되는 요소들중 공통적으로 사용되는 요소들을 제어합니다.*/
+
+/*
+컨텐츠 영역
+ */
+.content-reading-section {
+    margin-bottom: 64px;
+  }
+.title-section {
+  margin-bottom: 64px;
+  }
+.title-section-s {
+    margin-bottom: 32px;
+  }
+
+/*
+컨텐츠 영역 옵션
+ */
+.-contents-divider {
+    border-bottom: 1px solid #e8eaed;
+    padding-bottom: 64px;
+}
+.-contents-divider-s {
+    border-bottom: 1px solid #e8eaed;
+    padding-bottom: 32px;
+}

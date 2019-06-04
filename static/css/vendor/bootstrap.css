@@ -3605,12 +3605,11 @@ fieldset:disabled a.btn {
   font-weight: 400;
   color: #007bff;
   background-color: transparent;
-  font-size: 0.75rem;
 }
 
 .btn-link:hover {
-  color: #0062ff;
-  text-decoration: none;
+  color: #0056b3;
+  text-decoration: underline;
   background-color: transparent;
   border-color: transparent;
 }
@@ -5129,15 +5128,14 @@ a.label:focus {
   min-width: 10px;
   padding: 3px 7px;
   font-size: 12px;
-  font-weight: 400;
+  font-weight: bold;
   line-height: 1;
-  color: #777;
+  color: #ffffff;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
-  background-color: #f5f5f5a3;
+  background-color: #777777;
   border-radius: 10px;
-  border: 1px solid #eee;
 }
 .badge:empty {
   display: none;

@@ -1,0 +1,50 @@
+.card-list {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.card-list .card-item {
+    width: 100%;
+    position: relative;
+}
+.card-list .card-item:not(:last-child) {
+    margin-bottom: 20px;
+}
+.card-list .card-item .bg-img {
+    width: 100%;
+}
+
+.card-list .card-item .card-content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.card-list .card-item .card-content .content-blur {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.6);
+    /* clip: rect(0, 289px, 129px, 0); */
+    z-index: 5;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-list .card-item .card-content .content-blur .company-logo {
+    margin-top: auto;
+}
+.card-list .card-item .card-content .content-blur > h3 {
+    text-align: center;
+}
+
+.card-list .card-item .card-content .content-blur > p {
+    width: 100%;
+    text-align: left;
+    margin-top: auto;
+}
