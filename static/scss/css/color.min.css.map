@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../fundamental/color.scss"
-    ],
-    "names": [],
-    "file": "color.min.css"
-}

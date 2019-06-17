@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,eAAe,AAAC,CACd,OAAO,CAAE,IAAI,CAEd",
-    "sources": [
-        "../template/container.scss"
-    ],
-    "names": [],
-    "file": "container.min.css"
-}

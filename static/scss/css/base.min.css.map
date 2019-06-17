@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAE,IAAI,AAAC,CACT,WAAW,CAAE,wEAAwE,CACrF,KAAK,CAAE,OAAO,CACd,UAAU,CAAE,IAAI,CAChB,WAAW,CAAE,GAAG,CAChB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX",
-    "sources": [
-        "../fundamental/base.scss"
-    ],
-    "names": [],
-    "file": "base.min.css"
-}
